@@ -1,0 +1,8 @@
+.editable {
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+input[readonly] {
+  background-color: #f1f1f1;
+  border: none;
+}
